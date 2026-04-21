@@ -4,7 +4,10 @@ I'm currently reading for my PhD at the University of Wollongong.
 
 I am currently learning to write code in Python.
 
-😎Fun fact about me: Love to spend my leisure time in the beach.
+😎Fun fact about me: 1. Love to spend my leisure time in the beach.
+2. Love to take walks.
+
+
 
 
 
